@@ -1,7 +1,5 @@
 # Terraform-3tier-Arch
-
-
-terraform-3tier-arch/
+#terraform-3tier-arch/
 ├── provider.tf
 ├── vpc.tf
 ├── security_groups.tf
